@@ -10,3 +10,5 @@ A máquina de estados possue estados de q1 a q11, sendo q1 o estado inicial e q5
 
 ### A fazer
 Algumas regras particulares, principalmente quanto tem 'ui', ele tem problemas em separar como deve ser.
+
+Mais detalhes nos comentários do código
